@@ -110,5 +110,21 @@
 "elevation_gain": 17.2,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15838572919,
+"name": "\u5c4e\u5af2\u526a\u6bdb",
+"distance": 3385.4,
+"moving_time": "0:29:48",
+"type": "Hike",
+"start_date": "2025-09-17 02:17:53+00:00",
+"start_date_local": "2025-09-17 10:17:53",
+"location_country": "\u9f99\u5ca9\u5927\u9053, \u897f\u9642\u8857\u9053, \u65b0\u7f57\u533a, \u9f99\u5ca9\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+"summary_polyline": "}~bxCkqeiUnGvAb@MJKXk@?OFe@FUDEXIt@BNB?JENBZDDZFNBh@@XD^AP@A@Z@HAJIJ@C^@l@ARG^IJJHJVGNGDCJ@JCLDr@?z@Eb@@jA@NAl@IRSNG?UGCGFOAD?D@AHBQA@DB@?C@B@CCCC@?HF@NIDFCHWE@EFBPPLG@OAYBSCWEC@WNcAGc@Ba@Aw@B[AG@QCOGKa@AGDBD?AAA@??BACWCOBCCEQ?BGA]B[EWDMHI]ABBF]?i@KQIc@GMEEFeABu@Qe@GEB@JGNMFG`@CEBDAb@?CCAALED}LyJkAlM?Cd@GnGVx@LTALBC??CHMH[CYCC@BKEGKA@GSBi@EQDKGQLK?AG?UXC?GEEKFm@A?@HIEAKCBCS@OFS@YLOIq@BDHED@HENWXDCOABBk@BA?qAA@F?@AGg@HYNQEYGIC@@B@G?YGEMACE?K@GAAAIGG?QCB@@iBd@EDACDCABqBMBAC@OAP@I?FA@@?D@EFABEBDAAO@@HAI@HAGOAN@@FAI?B?AMCLBQAP@?@?CABMCN@AD@E@FAG@DAEA@@C?B?CQ?NB@AQAP@A@@A?@?CS@R??A?B?AW?VA?B?AS?R??@?C?B?A?@?AU?TA?B?AA@@AQ@PA?A?B@CCB@CAB@AWAV@?@OAN@@CCB@CO?N??B?CS?R@?AABBBAG?BBECB?A?@?AAB@E@D",
+"average_heartrate": null,
+"average_speed": 1.893,
+"elevation_gain": 31.2,
+"source": "strava",
+"streak": 2
 }
 ]
