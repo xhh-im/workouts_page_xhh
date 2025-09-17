@@ -53,7 +53,7 @@ const RICH_TITLE = true;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `锻炼 ${yearLength} 年了 ` +
+  `重新记录运动 ${yearLength} 年了 ` +
   (year === 'Total' ? '' : `，右图为 ${year} 年的活动轨迹`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
