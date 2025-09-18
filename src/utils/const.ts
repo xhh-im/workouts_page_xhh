@@ -329,7 +329,7 @@ export const MAP_TILE_STYLE = 'aquarelle';
 // export const MAP_TILE_ACCESS_TOKEN = 'ea116919-7a5d-4def-96e0-490a92e0973f';
 
 // maptiler: Gt5R0jT8tuIYxW6sNrAg | sign up at https://cloud.maptiler.com/auth/widget
-export const MAP_TILE_ACCESS_TOKEN = 'akuvQTIUaPG5sbtkpwvc'; //maptiler
+export const MAP_TILE_ACCESS_TOKEN = '3IT9y539MrmOVoBcJBeY'; //maptiler
 
 export const MAP_TILE_STYLES = {
   maptiler: {
