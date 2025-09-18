@@ -243,7 +243,7 @@ const RUNTABLE_TITLE = {
 };
 
 //当某个活动的坐标数据为空时，定义到的城市
-const DEFAULT_LOCATION = { longitude: 113.9353, latitude: 22.5431, zoom: 9 };
+const DEFAULT_LOCATION = { longitude: 117.0207, latitude: 25.0908, zoom: 9 };
 
 export {
   USE_GOOGLE_ANALYTICS,
