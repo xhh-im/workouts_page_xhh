@@ -326,10 +326,10 @@ export const MAP_TILE_STYLE = 'alidade_smooth';
 // access token. you can apply a new one, it's free.
 
 // stadiamaps: ea116919-7a5d-4def-96e0-490a92e0973f |sign up at https://client.stadiamaps.com/signup/
-export const MAP_TILE_ACCESS_TOKEN = 'ea116919-7a5d-4def-96e0-490a92e0973f';
+export const MAP_TILE_ACCESS_TOKEN = '0450b3ce-69a2-45c4-9093-3fd85b867a06';
 
 // maptiler: Gt5R0jT8tuIYxW6sNrAg | sign up at https://cloud.maptiler.com/auth/widget
-// export const MAP_TILE_ACCESS_TOKEN = 'akuvQTIUaPG5sbtkpwvc'; //maptiler
+// export const MAP_TILE_ACCESS_TOKEN = '3IT9y539MrmOVoBcJBeY'; //maptiler
 
 export const MAP_TILE_STYLES = {
   maptiler: {
