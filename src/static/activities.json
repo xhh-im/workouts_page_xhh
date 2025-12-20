@@ -1086,5 +1086,21 @@
 "elevation_gain": 91.5,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16791549031,
+"name": "\u548c\u5934\u5b50\u8fc7\u5c71\u6d1e",
+"distance": 5197.3,
+"moving_time": "0:34:47",
+"type": "Ride",
+"start_date": "2025-12-20 09:48:14+00:00",
+"start_date_local": "2025-12-20 17:48:14",
+"location_country": "X605, \u5317\u57ce\u8857\u9053, \u65b0\u7f57\u533a, \u9f99\u5ca9\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+"summary_polyline": "gibxCql_iUVD@LbAKXNH@n@UXA`@GR@VCRBZETBNCFIBa@ES@OA[@KCQDMHM@I?SFyCAwA@_@GgECm@COBSGaD@kBG}AI_HFeBT}BZqBNo@^qAj@yAx@gB~@gBTm@d@y@t@}Ab@y@d@k@|F_SR_@BOBc@BK@g@BQ@mAFuAGWGqBM}AIQ?MOwA@i@A]Iq@ESQiBKi@GOCu@WyCA}@Kq@AaBKUSI@YAUKUHO?KAg@EYAU@a@CKDQAYKuA@w@KcAO[B_AGa@Jc@Aw@@KGO?GFMD[Ck@Bc@CS?iACQJQ@s@Eg@CmCEe@BO@QA[Go@A}@@sAEUYa@NS?UJcA?k@EIMGAEFe@Cm@Ks@GSOM?QEOCEAWEKSOWc@KNOHGL@FD?DMRMLO@KCICEQGUAMIQ_@AIGIYw@UWEOQQU_@Qg@e@{@K_@G?IBiAJOD_@DMDOA}AHmBGqBQWGGBERWHe@EcB?eBImCSUEo@IoAKCHDFDT?`@DZDrAEBG?MIGCMQMGG@EFC^C@Y?_AFMCABBJCH@JEMRz@LUEUB]CHK?MBGB?D@TDDTB@BCDE@_A?wAp@IGJ@EAEB?AL@MELDMEG@?CD@",
+"average_heartrate": null,
+"average_speed": 2.49,
+"elevation_gain": 45.4,
+"source": "strava",
+"streak": 1
 }
 ]
