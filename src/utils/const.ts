@@ -52,7 +52,7 @@ const RICH_TITLE = true;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `锻炼 ${yearLength} 年了 ` +
+  `重新记录运动 ${yearLength} 年了 ` +
   (year === 'Total' ? '' : `，右图为 ${year} 年的活动轨迹`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
@@ -62,9 +62,9 @@ const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
     : `, the right picture shows the activity trajectory in ${year}`);
 
 const LOCATION_INFO_MESSAGE_FIRST =
-  '我一开始是一个极度讨厌运动的人，后来喜欢上跑步机，接着是路跑，到最近的骑行';
+  '适量的运动可以增强体质、调节心情、增强意志';
 const LOCATION_INFO_MESSAGE_SECOND =
-  '运动这件事，想想就很痛苦，但是完成了的成就感就是会带来多巴胺！';
+  '身体上的坚韧，带来意志上的坚韧！';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
 const FULL_MARATHON_RUN_TITLE = IS_CHINESE
